@@ -84,7 +84,7 @@ Modern developer portfolio built with Next.js, Framer Motion, and Tailwind CSS.
 
 🔗 *Live:* [Live Demo](https://l.facebook.com/l.php?u=https%3A%2F%2Fbayezid-hosen-web-developer-portfol-psi.vercel.app%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETFteGhFblZZc014YXkzb3ltc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqdlr-frZfQko-5wos1wy0M8Yt6BQLwy1agRGAlvB3rpOXhT1q9c_rZWBCcp_aem_xTlNgOd8_Ee64ACaRs5-Qw&h=AUCSBPA0DSv3BuHliI_oW1Y9X894fsT6F8WzG_qe7Tca01-rmMoyDQQwVS9Kw5LudWjXwPT8VWxK2GiBKEYiluS5_1f3_x1aztd-orROAMtay4mJ3ZlSK6OAjkDwh8PoIngDCg)
 
-💻 *Code:* [GitHub Repository](https://github.com/dev-riaz/my-portfolio)
+💻 *Code:* [GitHub Repository](https://github.com/Bayezidhosen?tab=repositories)
 
 ---
 
