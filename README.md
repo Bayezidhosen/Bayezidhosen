@@ -73,7 +73,7 @@ A full-stack recipe sharing platform with authentication, CRUD operations, image
 
 🔗 *Live:* [Live Demo](https://assignment10-client-site.vercel.app/)
 
-💻 *Code:* [GitHub Repository](https://github.com/dev-riaz/Assignment10-client-site)
+💻 *Code:* [GitHub Repository](https://github.com/Bayezidhosen?tab=repositories)
 
 ---
 
@@ -107,7 +107,7 @@ Real-time chat application built with Socket.io.
 
 <p align="left">
 
-<a href="mailto:riazmahamud113@gmail.com">
+<a href="mailto:bayezidhosen9080@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
@@ -125,11 +125,11 @@ Real-time chat application built with Socket.io.
 
 </p>
 
-📧 *Email:* riazmahamud113@gmail.com
+📧 *Email:* bayezidhosen9080@gmail.com
 
-💼 *LinkedIn:* https://www.linkedin.com/in/riaz-mahamud-dev/
+💼 *LinkedIn:* [https://www.linkedin.com/in/riaz-mahamud-dev/](https://www.linkedin.com/in/bayezid-hosen-a4a669387/?isSelfProfile=true)
 
-🌍 *Portfolio:* [Live Demo](https://my-portfolio-sigma-olive-jdp3clhl52.vercel.app/)
+🌍 *Portfolio:* [Live Demo](https://l.facebook.com/l.php?u=https%3A%2F%2Fbayezid-hosen-web-developer-portfol-psi.vercel.app%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETF1WnVwU0F2MVZZU3kybXZ2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHplVDwfu0CCVtQPk7GYQLqIwya5MwsV4ftiycp84Wh5as5NaAsA7cczQLp0Q_aem_cjSmXi_3eZ73bjmNMIjozg&h=AUAE6dSsxBlNuRKAdLEkcp4Mkv7TJZloiZ-VMv7jbIejahY1ZCi7uXADxx3XTOBypE0xb4c2-RD2qbsP0cEO_yQ1E3TP2YHxx2MhEcEPHZ-sMFrvLWlH1ImWTCu-9C0SDB8HbQ)
 
 🐱 *GitHub:* [GitHub Repository](https://github.com/Bayezidhosen?tab=repositories)
 
