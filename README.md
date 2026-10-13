@@ -47,12 +47,12 @@ Building modern, scalable, and user-friendly web applications using React, Next.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-riaz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-riaz&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bayezidhosen&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bayezidhosen&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-riaz&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayezidhosen&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@ Building modern, scalable, and user-friendly web applications using React, Next.
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-riaz&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bayezidhosen&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -111,11 +111,11 @@ Real-time chat application built with Socket.io.
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/riaz-mahamud-dev/" target="_blank">
+<a href="https://www.linkedin.com/in/bayezid-hosen-a4a669387/?isSelfProfile=true" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="https://github.com/dev-riaz" target="_blank">
+<a href="https://www.linkedin.com/in/bayezid-hosen-a4a669387/?isSelfProfile=true" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
@@ -127,7 +127,7 @@ Real-time chat application built with Socket.io.
 
 📧 *Email:* bayezidhosen9080@gmail.com
 
-💼 *LinkedIn:* [https://www.linkedin.com/in/riaz-mahamud-dev/](https://www.linkedin.com/in/bayezid-hosen-a4a669387/?isSelfProfile=true)
+💼 *LinkedIn:* [https://www.linkedin.com/in/bayezid-hosen-a4a669387/?isSelfProfile=true](https://www.linkedin.com/in/bayezid-hosen-a4a669387/?isSelfProfile=true)
 
 🌍 *Portfolio:* [Live Demo](https://l.facebook.com/l.php?u=https%3A%2F%2Fbayezid-hosen-web-developer-portfol-psi.vercel.app%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETF1WnVwU0F2MVZZU3kybXZ2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHplVDwfu0CCVtQPk7GYQLqIwya5MwsV4ftiycp84Wh5as5NaAsA7cczQLp0Q_aem_cjSmXi_3eZ73bjmNMIjozg&h=AUAE6dSsxBlNuRKAdLEkcp4Mkv7TJZloiZ-VMv7jbIejahY1ZCi7uXADxx3XTOBypE0xb4c2-RD2qbsP0cEO_yQ1E3TP2YHxx2MhEcEPHZ-sMFrvLWlH1ImWTCu-9C0SDB8HbQ)
 
@@ -151,7 +151,7 @@ Real-time chat application built with Socket.io.
 
 If you like my work, don't forget to ⭐ my repositories.
 
-<img src="https://komarev.com/ghpvc/?username=dev-riaz&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Bayezidhosen&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 readme-typing-svg.herokuapp.com
