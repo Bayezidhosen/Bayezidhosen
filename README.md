@@ -1,158 +1,112 @@
-<div align="center">
 
-# Hi 👋, I'm Bayezid Hossen
+<!-- ================= PROFILE HEADER ================= -->
 
-### 🚀 Aspiring Full Stack Developer
+<h1 align="center">Hi 👋, I'm Bayezid Hosen</h1>
 
-Building modern, scalable, and user-friendly web applications using React, Next.js, Node.js, Express.js & MongoDB.
+<h3 align="center">
+  🚀 Web Developer | WordPress & Laravel Specialist
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;Node.js+Developer;Express.js+Developer;MongoDB+Developer;Always+Learning+New+Things!" />
+<p align="center">
+  Building modern, responsive, and user-friendly web experiences.
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning *Advanced Next.js & Backend Development*
-- 💼 Looking for *Frontend / Full Stack Internship*
-- 🚀 Passionate about building modern web applications
-- 💻 Love writing clean, scalable & maintainable code
-- 📍 Based in *Bangladesh*
+- 🌍 Based in Rangpur, Bangladesh
+- 💻 Passionate about modern web development
+- 🌱 Exploring Next.js, React, and full-stack development
+- 🛠️ Working with WordPress, PHP, and Laravel
+- 🎯 Focused on responsive UI, clean code, and performance
+- 🚀 Always learning and building new projects
+- 🤝 Open to collaboration and interesting web projects
 
 ---
 
-# 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 🎨 Frontend
-
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Skills" />
 </p>
 
-### ⚙️ Backend
-
+### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mongodb,mysql" alt="Backend Skills" />
 </p>
 
-### 🧰 Tools
-
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,figma" alt="Tools" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 🛒 BazarDor
+A modern market price tracking website for exploring essential product prices.
+
+- Next.js, React, TypeScript
+- Responsive interface
+- Product categories and price information
+
+### 🌐 Personal Portfolio
+A personal portfolio to showcase my web development skills and projects.
+
+- Modern UI and responsive design
+- Project showcase
+- Professional developer profile
+
+> Add your actual repository links and live demos to these projects.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-riaz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-riaz&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-riaz&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-riaz&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🍽️ Recipe Sharing Platform
-A full-stack recipe sharing platform with authentication, CRUD operations, image upload, likes, and comments.
-
-
-🔗 *Live:* [Live Demo](https://assignment10-client-site.vercel.app/)
-
-💻 *Code:* [GitHub Repository](https://github.com/dev-riaz/Assignment10-client-site)
-
----
-
-
-### 👨‍💼 Personal Portfolio
-Modern developer portfolio built with Next.js, Framer Motion, and Tailwind CSS.
-
-
-🔗 *Live:* [Live Demo](https://my-portfolio-sigma-olive-jdp3clhl52.vercel.app/)
-
-💻 *Code:* [GitHub Repository](https://github.com/dev-riaz/my-portfolio)
-
----
-
-### 📋 Docpoent App
-Full CRUD task management application with authentication and responsive UI.
- 
-🔗 *Live:* [Live Demo](https://assignment-9-client-site-kappa.vercel.app/)
-
-💻 *Code:* [GitHub Repository](https://github.com/dev-riaz/Assignment-9-clientSite)
-
----
-
-### 💬 Chat Application
-Real-time chat application built with Socket.io.
-
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="mailto:riazmahamud113@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/riaz-mahamud-dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="https://github.com/dev-riaz" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL" target="_blank">
-<img src="https://skillicons.dev/icons?i=vercel" width="45"/>
-</a>
-
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-📧 *Email:* riazmahamud113@gmail.com
+---
 
-💼 *LinkedIn:* https://www.linkedin.com/in/riaz-mahamud-dev/
+## 💡 Developer Quote
 
-🌍 *Portfolio:* [Live Demo](https://l.facebook.com/l.php?u=https%3A%2F%2Fbayezid-hosen-web-developer-portfol-psi.vercel.app%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETF1WnVwU0F2MVZZU3kybXZ2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHplVDwfu0CCVtQPk7GYQLqIwya5MwsV4ftiycp84Wh5as5NaAsA7cczQLp0Q_aem_cjSmXi_3eZ73bjmNMIjozg&h=AUAE6dSsxBlNuRKAdLEkcp4Mkv7TJZloiZ-VMv7jbIejahY1ZCi7uXADxx3XTOBypE0xb4c2-RD2qbsP0cEO_yQ1E3TP2YHxx2MhEcEPHZ-sMFrvLWlH1ImWTCu-9C0SDB8HbQ)
-
-🐱 *GitHub:* [GitHub Repository](https://github.com/dev-riaz/my-portfolio)
+> "Great software is built with curiosity, consistency, and a passion for solving problems."
 
 ---
 
-# 🎯 2026 Goals
-
-- 🚀 Land a Software Engineering Internship
-- 📚 Master Full Stack Development
-- 🌍 Contribute to Open Source Projects
-- ⭐ Build 15+ High Quality Projects
-- 💼 Become a Professional Software Engineer
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-<img src="https://komarev.com/ghpvc/?username=dev-riaz&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-readme-typing-svg.herokuapp.com
-
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+  <br />
+  Feel free to explore my repositories and connect with me.
+</p>
